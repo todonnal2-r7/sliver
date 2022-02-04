@@ -1,4 +1,4 @@
-module github.com/bishopfox/sliver
+module github.com/todonnal2-r7/sliver
 
 go 1.17
 
